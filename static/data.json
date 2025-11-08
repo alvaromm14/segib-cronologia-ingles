@@ -1,0 +1,351 @@
+[
+    {
+        "year": 2000,
+        "event": "<a href='https://www.un.org/en/conferences/environment/newyork2000'>Millennium Summit</a>. New York, United Nations.",
+        "event_description": "Countries commit to the achievement of the MDGs.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": ""
+        
+    },
+    {
+        "year": 2001,
+        "event": "",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": ""
+    },
+    {
+        "year": 2002,
+        "event":
+            "<a href='https://www.un.org/esa/ffd/overview/monterrey-conference.html'>First International Conference on Financing for Development</a>. Monterrey, México.",
+        "event_description":
+            "Countries commit to ODA and less developed countries.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": ""
+    },
+    {
+        "year": 2003,
+        "event": "First High-Level Forum on Aid Harmonization. Rome, Italy.",
+        "event_description": "",
+        "event1":
+            "<a href='https://www.g77.org/marrakech/'>G77 High-level Conference on South-South Cooperation (BAPA+25)</a>. Marrakesch, Morocco.",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "13th Summit in Santa Cruz, Bolivia. The <b>constitution of SEGIB, in force since 2005</b>, was approved."
+    },
+    {
+        "year": 2004,
+        "event": "First United Nations Day for South-South Cooperation",
+        "event_description":
+            "(December 14th). It is then changed to September 12th.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": ""
+    },
+    {
+        "year": 2005,
+        "event": "Second High-Level Forum on Aid Effectiveness. Paris, France.",
+        "event_description":
+            "The Paris Declaration on Aid Effectiveness is adopted.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": ""
+    },
+    {
+        "year": 2006,
+        "event": "",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "In view of the decline of ODA to LAC and the renewed momentum of SSC and TC, <b>Ibero-American countries ask SEGIB to systematize this new scenario.</b>"
+    },
+    {
+        "year": 2007,
+        "report": "1",
+        "event": "",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "<b>First Report on Ibero-American Cooperation</b>. Objective: systematize countries' SSC and TC and contextualize the new framework for ODA; <b>provide visibility and inputs for public policy management</b>. The 17th Summit of Santiago de Chile mandates its annual preparation."
+    },
+    {
+        "year": 2008,
+                "report": "2",
+                        "reportUrl": "",
+        "event":
+            "Third High-Level Forum on Aid Effectiveness. Accra, Ghana.",
+        "event_description": "",
+        "event1":
+            "<a href='https://www.un.org/es/conf/ffd/2008/'>Second International Conference on Financing for Development</a>. Doha, Qatar.",
+        "event1_description": "Follows up on the Monterrey Consensus.",
+        "event2":
+            "First Biennal High-Level Meeting of the Development Cooperation Forum (DCF-ECOSOC).",
+        "event2_description": "",
+        "info":
+            "The Report highlights gaps between countries. The 18th Summit of San Salvador approves the creation of <b>PIFCSS. Objective: strengthen capacities and close gaps</b>."
+    },
+    {
+        "year": 2009,
+        "report": "3",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/04/south-south2009.pdf",
+        "event": "First Biennal High-Level Meeting of the Development Cooperation Forum",
+        "event_description": "(DCF-ECOSOC).",
+        "event1":
+            "<a href='https://docs.un.org/en/a/res/64/222'>High-level Conference on South-South Cooperation (BAPA+30).</a>. Nairobi, Kenya.",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "1st Edition of the Report in <b>English.</b> A chapter prepared by IB Heads of Cooperation is incorporated, which, in each edition, <b>reflects on a shared vision on SSC and TC and the Global Development Agenda</b>."
+    },
+    {
+        "year": 2010,
+        "report": "4",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/04/sur-sur-ingles2010.pdf",
+        "initiatives": "3.500 initiatives",
+        "event": "",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "PIFCSS begins its activities. More than <b>3,500 initiatives</b> are systematized in almost 600 pages. <b>New data, indicators and methodologies</b> are defined that broaden the capacity to analize and understand SSC and TC."
+    },
+    {
+        "year": 2011,
+                "report": "5",
+                "reportUrl": "https://informesursur.org/wp-content/uploads/2021/04/coop-south-south-2011.pdf",
+"event":
+            "Fourth High-Level Forum on Aid Effectiveness. Busan, South Korea.",
+        "event_description": "",
+        "event1": "",
+        "event1_description":
+            "The United Nations Office for SSC (UNOSSC) is created, replacing the Special Unit for SSC.",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "At the Busan HLF, IB Heads of Cooperation present a shared position prepared in the framework of PIFCSS. After the earthquake in Haiti, the Report incorporates the analysis of SSC and TC with the non-Ibero-American Caribbean and <b>progressively does the same with other regions</b>. Current aggregated figures: <b>+ 1,850 exchanges with + 90 countries of the Global South</b>.",
+                    "image": "4-high-level-forum"
+    },
+    {
+        "year": 2012,
+                "report": "6",
+                                "reportUrl": "https://informesursur.org/wp-content/uploads/2021/04/sursur2012ingles.pdf",
+
+                                "initiatives": "5,000",
+        "event":
+            "<a href='https://www.un.org/en/conferences/environment/rio2012'>Conferencia de las Naciones Unidas sobre el Desarrollo Sostenible (Cumbre “Río+20”)</a>, en Rio de Janeiro, Brasil.",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": "The Report's database includes more than <b>5,000 initiatives</b>.",
+                "image": "rio+20"
+    },
+    {
+        "year": 2013,
+        "event": "First Triangular Cooperation Policy Dialogue. Lisbon, Portugal.",
+        "event_description": "Periodically organized by the OECD and the Government of Portugal.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": "A continuous process of <b>in-depth thematic studies (Health, Food Security, Biodiversity, etc.)</b> and successive technical collaborations with other intergovernmental organizations, such as <b>PAHO, IICA, OECD, IsdB, among others, begins</b>."
+    },
+    {
+        "year": 2014,
+        "report": "7",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/04/websursur2013ingles1.pdf",
+        "event": "First High-Level Meeting of the Global Partnership for Effective Development Cooperation. Mexico City, Mexico.",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": "<b>SSC and TC initiatives reach maximum records: + 1,800 in one year</b>. The aggregated analysis of this evolution includes more than <b>1,100 pages</b>."
+    },
+    {
+        "year": 2015,
+                "report": "8",
+                        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/04/report-on-south-south-2015-ingles-nuevo.pdf",
+        "event":
+            "<a href='https://www.un.org/esa/ffd/ffd3/index.html'>Third International Conference on Financing for Development. Addis Ababa, Ethiopia.",
+        "event_description":
+            "The Addis Ababa Action Agenda (AAAA) is adopted.",
+        "event1": "<a href='https://www.un.org/en/conferences/environment/newyork2015'>United Nations Sustainable Development Summit</a>. New York, United Nations.",
+        "event1_description":
+            "The 2030 Agenda and the 17 SDGs are adopted. South-South and Triangular Cooperation are recognized as means of implementation.",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "<b>SIDICSS, the regional online database is launched</b>. It is the only system that allows <b>data uploading and cross-checking. Since then, + 500 professionals</b> of the Agencies and D-GC of the 22 Ibero-American countries have been users.",
+                    "image": "lista-objetivos"
+                },
+    {
+        "year": 2016,
+                "report": "9",
+                                        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/04/report-ssc-2016-en1.pdf",
+                                "initiatives": "7,500",
+        "event":
+            "Second High-Level Meeting of the Global Partnership for Effective Development Cooperation. Nairobi, Kenya.",
+        "event_description": "",
+        "event1":
+            "First ECOSOC forum on Financing for Development. New York, United Nations.",
+        "event1_description":
+            "Annual follow-up on the  AAAA.",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "The <b>methodology that identifies the alignment of SSC and TC initiatives with the SDGs</b> is designed. The foundations are laid for a better understanding of these modalities in the framework of the 2030 Agenda."
+    },
+    {
+        "year": 2017,
+                "report": "10",
+                                                        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/04/informeingles2017-web.pdf",
+
+        "event": "First meeting of the TOSSD Task Force. Paris, France.",
+        "event_description":
+            "A metric on the contributions to the SDGs, beyond ODA, is promoted.",
+        "event1":
+            "Global South-South Development Expo, organized by the United Nations Office for South-South Cooperation. Antalya, Turkey.",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "The <b>10th edition of the Report </b>is published, completing a decade of the systematization of SSC and TC in Ibero-America. The Report has evolved: <b>from SSC and TC and ODA in Ibero-America, to SSC and TC in Ibero-America with the entire Global South</b>."
+    },
+    {
+        "year": 2018,
+                "report": "11",
+                                                                        "reportUrl": "https://unsouthsouth.org/wp-content/uploads/2019/10/Baja_sur-sur2018_EN-completo.pdf",
+        "event":
+            "Tenth Edition of the Global South-South Development Expo. New York, United Nations.",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "The book <b>A decade of SSC in Ibero-America</b> is published: it systematizes <b>+ 7,000 initiatives</b> and summarizes SSC's milestones, through the <b>more than 975 events</b> that, since 1955, have set its foundations. It is <b>presented at the New York Expo</b>."
+    },
+    {
+        "year": 2019,
+        "report": "12",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2021/04/ing-informe-completo.pdf",
+        "event": "1ª Cumbre de los ODS en Nueva York, NNUU.",
+        "event_description": "Revisa el progreso de la Agenda 2030.",
+        "event1":
+            "<a href='https://unsouthsouth.org/bapa40/'>2ª Conferencia de las Naciones Unidas sobre CSS (PABA+40)</a> en Buenos Aires, Argentina.",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "More than <b>100 international presentations of the Report</b>. Ibero-American Summits, South-South Expos and <b>PABA+40</b> stand out. UNDP develops the <b>First SSC Report in Africa</b>, with technical support from SEGIB.",
+        "image": "paba+40"
+                    },
+    {
+        "year": 2020,
+        "report": "13",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2022/09/informeencorrected.pdf",
+        "initiatives": "9,000",
+        "event": "",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "The word <b>'Triangular' was added to the title of the Report</b>. SIDICSS has more than 1,400 TC  initiatives. The <b>SEGIB-UE project</b> on knowledge generation on TC was launched."
+    },
+    {
+        "year": 2021,
+        "event": "",
+        "event_description": "",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "The platform <b><a href='https://informesursur.org/en/'>informesursur.org</a></b> was launched at the 27th Summit of Andorra. It allows digital access to <b>data, graphs, highlights, reports and documents on Ibero-American SSC and TC</b> since 2010."
+    },
+    {
+        "year": 2022,
+        "report": "14",
+        "reportUrl": "https://informesursur.org/wp-content/uploads/2023/03/completereportssandtc2022en-1.pdf",
+        "event":
+            "Global South-South Development Expo. Bangkok, Thailand.",
+        "event_description":
+            "Debate on South-South and Triangular Cooperation and the way out of the COVID-19 crisis.",
+        "event1": "The United Nations Statistical Commission",
+        "event1_description":
+            "adopts the 17.3.1 indicator which includes SSC's contribution to the SDGs. OCDE (IFT-TOSSD) and UNCTAD are co-custodians.",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "In-depth study shows that the region's <b>SSC and TC could adapt and was responsive to the COVID-19 crisis</b>. The Health sector explained 1 out of 4 exchanges. This edition is illustrated with photos from the Image Bank on SSC and TC developed between PIFCSS and SEGIB, generating visual evidence of this cooperation."
+    },
+    {
+        "year": 2023,
+        "event": "Second United Nations SDG Summit. New York, United Nations.",
+        "event_description": "Half-way to the deadline of the 2030 Agenda.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info":
+            "SEGIB deepens its exchanges and technical dialogue with <b>UNCTAD and IFT-TOSSD</b>. The accumulated experience positions <b>SEGIB as a reference in the global debate on SSC measurement. SIDICSS has more than 10,000 initiatives</b>."
+    },
+    {
+        "year": 2024,
+                "report": "15",
+                        "reportUrl": "https://informesursur.org/wp-content/uploads/2024/11/informe-final-ingles.pdf",
+
+                                "initiatives": "10,432",
+        "event": "<a href='https://www.un.org/en/summit-of-the-future' target='_blank' rel='noopener noreferrer'>Summit of the Future. New York, United Nations</a>.",
+        "event_description": "A Pact for the Future is adopted.",
+        "event1": "The International Forum on TOSSD (IFT),",
+        "event1_description":
+            "which Secretariat is held by the OECD, replaces the Task Force on the new cooperation metrics.",
+        "event2":
+            "Interregional Expert Meeting on the Measurement of South-South Cooperation. Doha, Qatar.",
+        "event2_description":
+            "Led by UNCTAD, it brought countries and multilateral agencies from different regions together.",
+        "info":
+            "The <b>15th edition of the Report</b> is presented at the 29th Summit of Cuenca (Ecuador). In an unprecedented regional exercise at the global level, <b>more than 2,800 pages of analysis and conceptualization</b> constitute a <b>unique account of the SSC and TC that the 22 Ibero-American countries have been carrying out for almost two decades</b>.",
+                        "image": "cumbre-futuro"
+                    },
+    {
+        "year": 2025,
+        "event":
+            "<a href='https://financing.desa.un.org/ffd4' target='_blank' rel='noopener noreferrer'>Fourth International Conference on Financing for Development</a>.",
+        "event_description": "Seville, Spain.",
+        "event1": "",
+        "event1_description": "",
+        "event2": "",
+        "event2_description": "",
+        "info": ""
+    }
+]
